@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "comput_geometry", "comput_geometry\comput_geometry.vcxproj", "{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Debug|x64.ActiveCfg = Debug|x64
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Debug|x64.Build.0 = Debug|x64
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Debug|x86.Build.0 = Debug|Win32
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Release|x64.ActiveCfg = Release|x64
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Release|x64.Build.0 = Release|x64
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Release|x86.ActiveCfg = Release|Win32
+		{4EDAF42B-92E8-4794-972B-FFA3AC0A40AE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1BB03B-B7EF-452B-B5F5-83C4D4EE4F6A}
+	EndGlobalSection
+EndGlobal
