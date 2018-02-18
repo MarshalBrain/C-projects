@@ -1,0 +1,38 @@
+﻿  TemplateHashFinal.cpp
+c:\users\user\source\repos\hash\hash\hash.h(44): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  c:\users\user\source\repos\hash\hash\hash.h(338): note: выполняется компиляция ссылки на экземпляр шаблон класс "Hash<T>"
+c:\users\user\source\repos\hash\hash\hash.h(44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\user\source\repos\hash\hash\hash.h(44): error C2238: непредвиденные лексемы перед ";"
+c:\users\user\source\repos\hash\hash\hash.h(52): error C2059: синтаксическая ошибка: <
+c:\users\user\source\repos\hash\hash\hash.h(52): error C2238: непредвиденные лексемы перед ";"
+c:\users\user\source\repos\hash\hash\hash.h(304): error C3646: begin: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(304): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(304): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(314): error C3646: end: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(314): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(314): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(319): error C3646: cbegin: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(319): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(319): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(324): error C3646: cbegin: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(324): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(324): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(329): error C3646: cend: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(329): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(329): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(334): error C3646: cend: неизвестный спецификатор переопределения
+c:\users\user\source\repos\hash\hash\hash.h(334): error C2059: синтаксическая ошибка: (
+c:\users\user\source\repos\hash\hash\hash.h(334): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+c:\users\user\source\repos\hash\hash\hash.h(413): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\user\source\repos\hash\hash\hash.h(483): error C2989: Const_Iterator: класс шаблон уже объявлен как не класс шаблон
+  c:\users\user\source\repos\hash\hash\hash.h(52): note:  см. объявление "Const_Iterator"
+c:\users\user\source\repos\hash\hash\hash.h(413): error C3857: Const_Iterator: множественные списки параметров шаблон не допускаются
+c:\users\user\source\repos\hash\hash\hash.h(44): error C2059: синтаксическая ошибка: <
+  c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(4): note: выполняется компиляция ссылки на экземпляр шаблон класс "Hash<KRat>"
+c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(20): error C2039: cbegin: не является членом "Hash<KRat>"
+  c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(4): note:  см. объявление "Hash<KRat>"
+c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(20): error C3536: it: не может использоваться до инициализации
+c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(20): error C2039: cend: не является членом "Hash<KRat>"
+  c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(4): note:  см. объявление "Hash<KRat>"
+c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(21): error C2227: выражение слева от "->val" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+  c:\users\user\source\repos\hash\hash\templatehashfinal.cpp(21): note: тип: int
